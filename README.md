@@ -20,7 +20,7 @@ $ laggfetch
 
 
 ```
-```ocaml
+```aml
 
 public class info 
 {
