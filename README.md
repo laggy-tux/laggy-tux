@@ -20,7 +20,7 @@ $ laggfetch
 
 
 ```
-```aml
+```bash
 
 public class info 
 {
