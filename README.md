@@ -18,7 +18,7 @@ $ laggfetch
 ⠀⠀⠀⠀⠀⠀⠙⢧⣀⠀⠀⣠⠏⠀⠀⢀⣀⣠⠴⠛⠓⠚⠋⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠋⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀
 
-$ lagg@world ~⠀⠀echo "hello world!"⠀⠀
+$ lagg@world ~⠀⠀
 
 
 ```
