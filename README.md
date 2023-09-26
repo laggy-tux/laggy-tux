@@ -20,7 +20,7 @@ $ laggfetch
 
 
 ```
-```bash
+```java
 
 public class info 
 {
