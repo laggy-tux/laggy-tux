@@ -30,7 +30,6 @@ public class info
    {
       About: A novice linux user aswell as a novice programmer.... high school student;
       Github: would be working on java projects and other things that interest me;
-      Contacts:[reddit](https://www.reddit.com/user/laggy-boy16);
    }    
 }
 
