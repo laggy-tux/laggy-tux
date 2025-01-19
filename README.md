@@ -25,7 +25,6 @@ $ laggfetch
 
 $ lagg@world ~⠀⠀
 
-
 ```
 
 
